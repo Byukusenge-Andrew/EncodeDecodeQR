@@ -1,0 +1,4 @@
+Barcode #1
+Type: EAN13
+Data: 6946848800089
+
