@@ -1,0 +1,16 @@
+opencv-python
+opencv-contrib-python
+pyzbar
+pylibdmtx
+qrcode[pil]
+pillow
+numpy
+python-barcode
+pdf417gen
+cryptography
+imageio
+pyztec
+pyzxing 
+
+    
+

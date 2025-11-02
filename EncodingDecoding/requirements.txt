@@ -1,0 +1,33 @@
+# Computer Vision libraries
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Barcode/QR Code libraries
+pyzbar>=0.1.9
+qrcode[pil]>=7.3.1
+python-barcode>=0.14.0
+pillow>=9.0.0
+
+# PDF417
+pdf417gen>=0.7.1
+
+# Data Matrix
+pylibdmtx>=0.1.10
+
+# Aztec codes
+pyztec>=0.0.1
+
+# ZXing for decoding
+pyzxing>=0.2
+
+# Cryptography for secure QR codes
+cryptography>=41.0.0
+
+# Image processing
+imageio>=2.31.0
+numpy>=1.24.0
+
+# Note: Some scripts require external tools:
+# - zint (command-line barcode generator)
+# - Docker (for some decoding operations with ZXing)
+# - Java JARs for ZXing (javase-3.5.0.jar, core-3.5.0.jar, jcommander-1.82.jar)
