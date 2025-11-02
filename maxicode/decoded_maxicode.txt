@@ -1,0 +1,25 @@
+MaxiCode Decoding Result
+================================================================================
+Image: d:\Copy of studies\Y3\Embedded\codes\QRCode\maxicode\image.png
+Method: Manual/Visual Decoding
+
+Decoded Data:
+[)>01968905200008400031Z12898809UPSN8681242461/1000NHENDERSONNV
+
+================================================================================
+Analysis:
+- Format: MaxiCode (2D postal barcode)
+- Primary Use: Package tracking and logistics (UPS)
+- Structure Identifier: [)>01 (ANSI MH10.8.2 format)
+
+Data Breakdown:
+- Message Header: [)>01
+- Postal Code: 96890520
+- Country Code: 000
+- Service Class: 840 (USA)
+- Tracking Number: 0031Z12898809
+- Carrier: UPSN (UPS)
+- Shipment ID: 8681242461/1000N
+- Destination: HENDERSON, NV (Nevada)
+
+This is a UPS MaxiCode used for automated package sorting and tracking.
